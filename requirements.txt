@@ -1,0 +1,15 @@
+# === Requisitos principales del dashboard HR ===
+streamlit>=1.38.0
+pandas>=2.2.2
+numpy>=1.26.0
+plotly>=5.24.0
+matplotlib>=3.9.0
+scikit-learn>=1.5.0
+
+# === Requisitos complementarios ===
+openpyxl>=3.1.2
+python-dateutil>=2.9.0
+
+# === Opcionales (para informes HTML o PDF, si los usas más adelante) ===
+pypandoc>=1.13
+reportlab>=4.2.0
